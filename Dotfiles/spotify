@@ -1,0 +1,4 @@
+!#/bin/sh
+
+flatpak run com.spotify.Client --username="alberto.montante02@gmail.com" --password="}6ng3R'6Z>sukmY" --show-console
+
