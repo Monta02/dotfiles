@@ -1,0 +1,5 @@
+include catppuccin-mocha
+set page-padding 1
+set recolor 1
+map Print print
+set selection-clipboard clipboard
